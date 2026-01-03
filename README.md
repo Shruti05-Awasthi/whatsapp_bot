@@ -23,5 +23,15 @@ This project is a WhatsApp automation bot built using **Python (Flask)** and **T
 ## Note
 This project uses **Twilio WhatsApp Sandbox** for development and testing.
 
+## Project Flow Diagram
+
+User (WhatsApp)
+→ Twilio WhatsApp API
+→ Webhook (/webhook)
+→ Flask Backend (Python Logic)
+→ Twilio Response
+→ User (WhatsApp)
+
+
 ## Author
 Shruti Awasthi

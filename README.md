@@ -25,12 +25,13 @@ This project uses **Twilio WhatsApp Sandbox** for development and testing.
 
 ## Project Flow Diagram
 
-User (WhatsApp)
-→ Twilio WhatsApp API
-→ Webhook (/webhook)
-→ Flask Backend (Python Logic)
-→ Twilio Response
-→ User (WhatsApp)
+User (WhatsApp)<br>
+→ Twilio WhatsApp API<br>
+→ Webhook (/webhook)<br>
+→ Flask Backend (Python Logic)<br>
+→ Twilio Response<br>
+→ User (WhatsApp)<br>
+
 
 
 ## Author
